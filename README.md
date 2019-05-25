@@ -1,6 +1,6 @@
 # rpi3-batman.adv
 Batman-adv Mesh Network
-The solution is to configure a decentralized mesh network using batman-adv. To get the TENT up and running it is assumed the user has a limited amount Linux experience, such as flashing operating systems to bootable media, using commands and editing files via a CLI or GUI., and an intermediate amount of networking knowledge. On Raspbian, B.A.T.M.A.N is a built-in protocol. Thus, all a user would need to do is enable to module and configure the interface.
+The solution is to configure a decentralized mesh network using batman-adv. To get the TENT up and running it is assumed the user has a limited amount Linux experience, such as flashing operating systems to bootable media, using commands and editing files via a CLI or GUI, and an intermediate amount of networking knowledge. On Raspbian, B.A.T.M.A.N is a built-in protocol. Thus, all a user would need to do is enable to module and configure the interface.
 
 } 
 Steps{ 
